@@ -18,6 +18,8 @@ The sequel to the popular parking simulator with improved graphics and new featu
 
 _Available on [Google Play](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2)._
 
+---
+
 ### 🎮 [Flick 2048](https://apps.apple.com/ru/app/flick-2048/id1625708698)
 A puzzle game in the 2048 genre with unique gameplay, offering a fresh perspective on the classic game.
 
