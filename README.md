@@ -48,7 +48,7 @@ _Available on [Google Play](https://play.google.com/store/apps/details?id=com.Mo
 
 ---
 
-## 🌐 **EdTech Project**
+## 🌐 **EdTech Project** (VR Unity Developer)
 
 ### 🎓 [Roqed](https://roqed.com/)
 An educational platform for creating interactive lessons. It helps teachers and students achieve more through technology.
