@@ -6,6 +6,18 @@ Welcome to my portfolio! Here you will find projects I have worked on. Each of t
 
 ## 📱 **Mobile Games**
 
+### 🚗 [Car Parking Multiplayer](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ru)
+A multiplayer parking simulator with an open world where you can compete and explore.
+
+_Download it on [Google Play](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ru)._
+
+---
+
+### 🚗 [Car Parking Multiplayer 2](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2)
+The sequel to the popular parking simulator with improved graphics and new features.
+
+_Available on [Google Play](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2)._
+
 ### 🎮 [Flick 2048](https://apps.apple.com/ru/app/flick-2048/id1625708698)
 A puzzle game in the 2048 genre with unique gameplay, offering a fresh perspective on the classic game.
 
@@ -27,26 +39,10 @@ _Download it on the [App Store](https://apps.apple.com/ru/app/raft-survivor/id16
 
 ---
 
-## 🛠️ **Simulators**
-
 ### 🏭 [Clothing Factory](https://play.google.com/store/apps/details?id=com.MossaGames.ClothingFactory)
 A factory simulation game: build your business, produce clothing, and manage your production line.
 
 _Available on [Google Play](https://play.google.com/store/apps/details?id=com.MossaGames.ClothingFactory)._
-
----
-
-### 🚗 [Car Parking Multiplayer](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ru)
-A multiplayer parking simulator with an open world where you can compete and explore.
-
-_Download it on [Google Play](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ru)._
-
----
-
-### 🚗 [Car Parking Multiplayer 2](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2)
-The sequel to the popular parking simulator with improved graphics and new features.
-
-_Available on [Google Play](https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2)._
 
 ---
 
